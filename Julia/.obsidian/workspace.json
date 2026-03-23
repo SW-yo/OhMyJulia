@@ -1,0 +1,361 @@
+{
+  "main": {
+    "id": "5138bf8463190b0e",
+    "type": "split",
+    "children": [
+      {
+        "id": "c5441dba64ae16de",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "48b51b69baeeec26",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ようこそ.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ようこそ"
+            }
+          },
+          {
+            "id": "eb3bc887a3f9c84c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "３．VSCodeのセットアップ.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "３．VSCodeのセットアップ"
+            }
+          },
+          {
+            "id": "cc091eb51df4bd83",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1.4　Juliaの起動.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1.4　Juliaの起動"
+            }
+          },
+          {
+            "id": "7f7465c5c2f9c7fb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3.2　Gitの設定.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "3.2　Gitの設定"
+            }
+          }
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "a70dcbdc538eaa71",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2c0309fb90e98c50",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "グラフビュー"
+            }
+          },
+          {
+            "id": "9a490269238b80ad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "２．Juliaのインストール.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "２．Juliaのインストール"
+            }
+          },
+          {
+            "id": "686ac5ae69c8c9db",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1.4　Juliaの起動.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1.4　Juliaの起動"
+            }
+          },
+          {
+            "id": "9e0ca401ee569719",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2.2　行列.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2.2　行列"
+            }
+          },
+          {
+            "id": "299cdf45c661beda",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2.3　文字列.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2.3　文字列"
+            }
+          },
+          {
+            "id": "b8f77098adc78682",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2.3　文字列.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2.3　文字列"
+            }
+          },
+          {
+            "id": "3ee7f331afdf4997",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2.3　文字列.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2.3　文字列"
+            }
+          },
+          {
+            "id": "87f70b6ea22af7ad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1.5　Juliaの実行.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1.5　Juliaの実行"
+            }
+          }
+        ],
+        "currentTab": 7
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "019f83abcfd433ac",
+    "type": "split",
+    "children": [
+      {
+        "id": "515afcf08a3b530b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b30141ddaa644802",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "ファイルエクスプローラ"
+            }
+          },
+          {
+            "id": "28c55b1d4d702786",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "検索"
+            }
+          },
+          {
+            "id": "a81d1c95216c06c6",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "ブックマーク"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "174f05c74d03464c",
+    "type": "split",
+    "children": [
+      {
+        "id": "c9e3756ca1cf6118",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d99693a7c9131082",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "バックリンク"
+            }
+          },
+          {
+            "id": "50aef06b4642687c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "アウトゴーイングリンク"
+            }
+          },
+          {
+            "id": "486b189b127e32cd",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "タグ"
+            }
+          },
+          {
+            "id": "da8fc7862e206c20",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "すべてのプロパティ"
+            }
+          },
+          {
+            "id": "05ec03bb9ccb704a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "アウトライン"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:クイックスイッチャーを開く": false,
+      "graph:グラフビューを開く": false,
+      "canvas:新規キャンバスを作成": false,
+      "daily-notes:今日のデイリーノートを開く": false,
+      "templates:テンプレートを挿入": false,
+      "command-palette:コマンドパレットを開く": false,
+      "bases:新規ベースを作成": false
+    }
+  },
+  "active": "7f7465c5c2f9c7fb",
+  "lastOpenFiles": [
+    "3.2　Google日本語の設定.md",
+    "3.2　Gitの設定.md",
+    "2.3　文字列.md",
+    "1.1　Juliaのための環境準備.md",
+    "1.2　Juliaのインストール.md",
+    "1.3　VSCodeのJuliaセットアップ.md",
+    "1.4　Juliaの起動.md",
+    "1.5　Juliaの実行.md",
+    "3.1　VSCodeのセッティング.md",
+    "４．GPUの起動.md",
+    "2.2　行列.md",
+    "2.1　型.md",
+    "Pasted image 20260323094502.png",
+    "Pasted image 20260323093828.png",
+    "Pasted image 20260323093447.png",
+    "Pasted image 20260323083614.png",
+    "ようこそ.md"
+  ]
+}
