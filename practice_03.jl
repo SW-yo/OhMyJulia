@@ -89,12 +89,15 @@ for i in 1:3, j in 1:3
     end
 end
 
-#  eachrow(A) を使うと、v に「1行分」が順番に入る
+#  eachrow(A) を使うと、v に「1行分」が順番に入る。
 for v in eachrow(A)
     println(v)
 end
 
-# v には [1, 4, 7], [2, 5, 8], [3, 6, 9] が順番に入る
+# v には [1, 4, 7], [2, 5, 8], [3, 6, 9] が順番に入る。
 for v in eachcol(A)
     println(v)
 end
+
+# 出力だけならこれが一番ちゃんしている。
+display(A)
