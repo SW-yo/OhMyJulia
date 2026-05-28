@@ -1,3 +1,4 @@
 {
-    "python-envs.defaultEnvManager": "ms-python.python:venv"
+    "python-envs.defaultEnvManager": "ms-python.python:venv",
+    "julia.environmentPath": "c:\\Users\\salt_\\OneDrive\\Documents\\!勉強\\Julia\\Pattern_recognition"
 }
