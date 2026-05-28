@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Julia's note/1.7 パッケージモード（Pkgと］）.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.7 パッケージモード（Pkgと］）"
+              "title": "README"
             }
           },
           {
@@ -256,6 +256,7 @@
   },
   "active": "fe9f1202bcb12e4a",
   "lastOpenFiles": [
+    "Julia's note/1.7 パッケージモード（Pkgと］）.md",
     "Julia's note/1.12 Jupyter Notebook.md",
     "Pattern_recognition/pima_scatter.png",
     "Julia's note/2.2 行列.md",
@@ -280,7 +281,6 @@
     "Julia's note/1.10 VSCodeの設定を変える.md",
     "iris_scatter.png",
     "Julia's note/1.3 VSCodeのJuliaセットアップ.md",
-    "Julia's note/1.7 パッケージモード（Pkgと］）.md",
     "Julia's note/6.1 『はじめてのパターン認識』学習方針.md",
     "Pattern_recognition/260521160958422.JPG",
     "Pattern_recognition/260521155303419.JPG",
