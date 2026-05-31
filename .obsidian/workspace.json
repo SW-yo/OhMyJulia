@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Julia's note/2.7 制御構文.md",
+                "file": "Julia's note/2.10 内包表記.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2.7 制御構文"
+              "title": "2.10 内包表記"
             }
           },
           {
@@ -256,12 +256,15 @@
   },
   "active": "fe9f1202bcb12e4a",
   "lastOpenFiles": [
+    "Julia's note/2.7 制御構文.md",
+    "Julia's note/5.2 LaTeX.md",
+    "Pattern_recognition/pima_roc_isoloss.png",
+    "Julia's note/2.2 行列.md",
     "Julia's note/2.8 関数.md",
     "README.md",
     "Julia's note/1.7 パッケージモード（Pkgと］）.md",
     "Julia's note/1.12 Jupyter Notebook.md",
     "Pattern_recognition/pima_scatter.png",
-    "Julia's note/2.2 行列.md",
     "Pattern_recognition/normal_distribution_1d.png",
     "Pattern_recognition/pima_02_multivariate_normal_distribution.png",
     "Pattern_recognition/pima_02-multivariate_normal_distribution.ipynb",
@@ -285,7 +288,6 @@
     "Julia's note/1.3 VSCodeのJuliaセットアップ.md",
     "Julia's note/6.1 『はじめてのパターン認識』学習方針.md",
     "Pattern_recognition/260521160958422.JPG",
-    "Pattern_recognition/260521155303419.JPG",
     "Julia's note/2.16 対数.md",
     "Julia's note/2.14 filter関数.md",
     "Julia's note/2.15 ブロードキャスト（.）.md",
@@ -294,13 +296,10 @@
     "Julia's note/1.9 非ASCII文字全体のハイライトをオフにする（一括設定）.md",
     "Julia's note/2.12 ファイル操作.md",
     "Julia's note/2.5 比較演算子.md",
-    "Julia's note/2.7 制御構文.md",
     "Julia's note/1.4 Juliaの起動.md",
     "Julia's note/2.9 配列.md",
-    "Julia's note/5.2 LaTeXの入力.md",
     "Julia's note/5.1 ホットキー.md",
     "Julia's note/2.11 時間計測.md",
-    "Julia's note/1.6 スマートアプリコントロール.md",
-    "Julia's note/1.8 Pythonのインストール.md"
+    "Julia's note/1.6 スマートアプリコントロール.md"
   ]
 }
