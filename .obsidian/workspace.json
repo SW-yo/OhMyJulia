@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Julia's note/2.10 内包表記.md",
+                "file": "Julia's note/1.7 パッケージモード（Pkgと］）.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2.10 内包表記"
+              "title": "1.7 パッケージモード（Pkgと］）"
             }
           },
           {
@@ -256,6 +256,17 @@
   },
   "active": "fe9f1202bcb12e4a",
   "lastOpenFiles": [
+    "Julia's note/2.1 型.md",
+    "Pattern_recognition/etl1_filter.png",
+    "Pattern_recognition/etl1_filter.xcf",
+    "Pattern_recognition/etl1_cossin_radial.png",
+    "Pattern_recognition/etl1_cossin_2axis.png",
+    "Pattern_recognition/etl1_cossin.png",
+    "Pattern_recognition/etl1_gaussian.png",
+    "Pattern_recognition/etl1_no_cutting.png",
+    "Pattern_recognition/etl1_cutting.png",
+    "Pattern_recognition/cutting.png",
+    "Julia's note/2.10 内包表記.md",
     "Julia's note/2.7 制御構文.md",
     "Julia's note/5.2 LaTeX.md",
     "Pattern_recognition/pima_roc_isoloss.png",
@@ -265,12 +276,8 @@
     "Julia's note/1.7 パッケージモード（Pkgと］）.md",
     "Julia's note/1.12 Jupyter Notebook.md",
     "Pattern_recognition/pima_scatter.png",
-    "Pattern_recognition/normal_distribution_1d.png",
-    "Pattern_recognition/pima_02_multivariate_normal_distribution.png",
     "Pattern_recognition/pima_02-multivariate_normal_distribution.ipynb",
     "Pattern_recognition/pima_01-1_dimensional_normal_distribution_function.ipynb",
-    "Pattern_recognition/iris_whitened_scatter.png",
-    "Pattern_recognition/iris_decorrelated_scatter.png",
     "Pattern_recognition/iris_03-decorrelation_and _whitening.ipynb",
     "Pattern_recognition/iris_03-decorrelation_and _whitening.jl",
     "Pattern_recognition/iris_03-decorrelation_and _.jl",
@@ -278,16 +285,11 @@
     "Pattern_recognition/iris_03-",
     "Pattern_recognition/iris_01-simple_plot.ipynb",
     "Pattern_recognition/iris_02-standardization_plot.ipynb",
-    "Pattern_recognition/iris_standardization_plot.png",
-    "Pattern_recognition/iris_02-standardization_plot.jl",
-    "Pattern_recognition/iris_centering_plot.png",
     "Julia's note/1.11 ターミナルでの操作.md",
     "Julia's note/1.5 Juliaの実行.md",
     "Julia's note/1.10 VSCodeの設定を変える.md",
-    "iris_scatter.png",
     "Julia's note/1.3 VSCodeのJuliaセットアップ.md",
     "Julia's note/6.1 『はじめてのパターン認識』学習方針.md",
-    "Pattern_recognition/260521160958422.JPG",
     "Julia's note/2.16 対数.md",
     "Julia's note/2.14 filter関数.md",
     "Julia's note/2.15 ブロードキャスト（.）.md",
@@ -299,7 +301,6 @@
     "Julia's note/1.4 Juliaの起動.md",
     "Julia's note/2.9 配列.md",
     "Julia's note/5.1 ホットキー.md",
-    "Julia's note/2.11 時間計測.md",
-    "Julia's note/1.6 スマートアプリコントロール.md"
+    "Julia's note/2.11 時間計測.md"
   ]
 }
