@@ -8,77 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f5a2bb0f9239d4cc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Julia's note/2.12 ファイル操作.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2.12 ファイル操作"
-            }
-          },
-          {
-            "id": "f2e804be3a045ecd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Julia's note/2.14 filter関数.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2.14 filter関数"
-            }
-          },
-          {
-            "id": "045bbb63c24c183b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Julia's note/2.15 ブロードキャスト（.）.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2.15 ブロードキャスト（.）"
-            }
-          },
-          {
-            "id": "a963009358f31cda",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Julia's note/1.3 VSCodeのJuliaセットアップ.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1.3 VSCodeのJuliaセットアップ"
-            }
-          },
-          {
             "id": "fe9f1202bcb12e4a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Julia's note/1.7 パッケージモード（Pkgと］）.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1.7 パッケージモード（Pkgと］）"
-            }
-          },
-          {
-            "id": "638b8f3f4ca96ea7",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -91,8 +21,7 @@
               "title": "2.7 制御構文"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -254,9 +183,29 @@
       "bases:新規ベースを作成": false
     }
   },
-  "active": "fe9f1202bcb12e4a",
+  "active": "b709245fe061cab0",
   "lastOpenFiles": [
+    "Julia's note/1.7 パッケージモード（Pkgと］）.md",
     "Julia's note/2.1 型.md",
+    "Julia's note/2.2 行列.md",
+    "Julia's note/2.3 文字列.md",
+    "Julia's note/2.4 算術演算子.md",
+    "Julia's note/2.5 比較演算子.md",
+    "Julia's note/2.6 論理演算子.md",
+    "Julia's note/2.7 制御構文.md",
+    "Julia's note/1.2 Juliaのインストール.md",
+    "Julia's note/1.5 Juliaの実行.md",
+    "Julia's note/1.6 スマートアプリコントロール.md",
+    "Julia's note/2.17 画像のリサイズ.md",
+    "Pattern_recognition/etl1_filter_#4.png",
+    "Pattern_recognition/etl1_fittered.png",
+    "Pattern_recognition/etl1_sample.png",
+    "Pattern_recognition/etl1_01_normalNN.ipynb",
+    "Pattern_recognition/etl1_01_normalNN_2.ipynb",
+    "Julia's note/1.3 VSCodeのJuliaセットアップ.md",
+    "Julia's note/2.15 ブロードキャスト（.）.md",
+    "Julia's note/2.14 filter関数.md",
+    "Julia's note/2.12 ファイル操作.md",
     "Pattern_recognition/etl1_filter.png",
     "Pattern_recognition/etl1_filter.xcf",
     "Pattern_recognition/etl1_cossin_radial.png",
@@ -265,17 +214,11 @@
     "Pattern_recognition/etl1_gaussian.png",
     "Pattern_recognition/etl1_no_cutting.png",
     "Pattern_recognition/etl1_cutting.png",
-    "Pattern_recognition/cutting.png",
     "Julia's note/2.10 内包表記.md",
-    "Julia's note/2.7 制御構文.md",
     "Julia's note/5.2 LaTeX.md",
-    "Pattern_recognition/pima_roc_isoloss.png",
-    "Julia's note/2.2 行列.md",
     "Julia's note/2.8 関数.md",
     "README.md",
-    "Julia's note/1.7 パッケージモード（Pkgと］）.md",
     "Julia's note/1.12 Jupyter Notebook.md",
-    "Pattern_recognition/pima_scatter.png",
     "Pattern_recognition/pima_02-multivariate_normal_distribution.ipynb",
     "Pattern_recognition/pima_01-1_dimensional_normal_distribution_function.ipynb",
     "Pattern_recognition/iris_03-decorrelation_and _whitening.ipynb",
@@ -283,24 +226,10 @@
     "Pattern_recognition/iris_03-decorrelation_and _.jl",
     "Pattern_recognition/iris_03-decorrelation.jl",
     "Pattern_recognition/iris_03-",
-    "Pattern_recognition/iris_01-simple_plot.ipynb",
-    "Pattern_recognition/iris_02-standardization_plot.ipynb",
     "Julia's note/1.11 ターミナルでの操作.md",
-    "Julia's note/1.5 Juliaの実行.md",
     "Julia's note/1.10 VSCodeの設定を変える.md",
-    "Julia's note/1.3 VSCodeのJuliaセットアップ.md",
     "Julia's note/6.1 『はじめてのパターン認識』学習方針.md",
     "Julia's note/2.16 対数.md",
-    "Julia's note/2.14 filter関数.md",
-    "Julia's note/2.15 ブロードキャスト（.）.md",
-    "Julia's note/3.1 VSCodeのセッティング.md",
-    "Julia's note/2.13 グラフ表示.md",
-    "Julia's note/1.9 非ASCII文字全体のハイライトをオフにする（一括設定）.md",
-    "Julia's note/2.12 ファイル操作.md",
-    "Julia's note/2.5 比較演算子.md",
-    "Julia's note/1.4 Juliaの起動.md",
-    "Julia's note/2.9 配列.md",
-    "Julia's note/5.1 ホットキー.md",
-    "Julia's note/2.11 時間計測.md"
+    "Julia's note/3.1 VSCodeのセッティング.md"
   ]
 }
