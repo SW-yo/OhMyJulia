@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.7 制御構文.md",
+                "file": "1.3 VSCodeのJuliaセットアップ.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2.7 制御構文"
+              "title": "1.3 VSCodeのJuliaセットアップ"
             }
           }
         ],
@@ -200,17 +200,26 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:クイックスイッチャーを開く": false,
       "graph:グラフビューを開く": false,
       "canvas:新規キャンバスを作成": false,
       "daily-notes:今日のデイリーノートを開く": false,
       "templates:テンプレートを挿入": false,
-      "command-palette:コマンドパレットを開く": false,
-      "bases:新規ベースを作成": false
+      "command-palette:コマンドパレットを開く": false
     }
   },
   "active": "0b5dc10540680dbd",
   "lastOpenFiles": [
+    "2.17 画像のリサイズ.md",
+    "2.16 対数.md",
+    "1.12 Jupyter Notebook.md",
+    "1.11 ターミナルでの操作.md",
+    "1.10 VSCodeの設定を変える.md",
+    "1.7 パッケージモード（Pkgと］）.md",
+    "1.3 VSCodeのJuliaセットアップ.md",
+    "1.1 Juliaのための環境準備.md",
+    "2.7 制御構文.md",
     "2.1 型.md",
     "2.3 文字列.md",
     "2.2 行列.md",
@@ -222,26 +231,17 @@
     "5.1 ホットキー.md",
     "1.7 Pkgと］.md",
     "1.2 Juliaのインストール.md",
-    "1.1 Juliaのための環境準備.md",
     "1.8 Pythonのインストール.md",
     "Pasted image 20260329151021.png",
     "Pasted image 20260329150947.png",
     "Pasted image 20260329150635.png",
     "Pasted image 20260329150914.png",
     "Pasted image 20260329150725.png",
-    "1.3 VSCodeのJuliaセットアップ.md",
     "1.5 Juliaの実行.md",
     "1.6 スマートアプリコントロール.md",
     "AI.md",
     "2.5 比較演算子.md",
     "2.6 論理演算子.md",
-    "2.7 制御構文.md",
-    "数学関数.md",
-    "戻り値.md",
-    "1.4 Juliaの起動.md",
-    "ようこそ.md",
-    "4.1 GPUの起動.md",
-    "3.2 Gitの設定.md",
     "Pasted image 20260324145709.png",
     "Pasted image 20260323094502.png",
     "Pasted image 20260323093828.png",
