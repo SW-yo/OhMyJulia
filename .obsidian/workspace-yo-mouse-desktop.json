@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Julia's note/2.19 マルチスレッド.md",
+                "file": "Julia's note/2.1 型.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2.19 マルチスレッド"
+              "title": "2.1 型"
             }
           },
           {
@@ -228,10 +228,9 @@
   },
   "active": "2314724b7689819b",
   "lastOpenFiles": [
-    "Julia's note/2.1 型.md",
-    "Pattern_recognition/pima_kNN_error_rate.png",
     "Pattern_recognition/etl1_error_all.png",
     "Julia's note/2.9 配列.md",
+    "Julia's note/2.1 型.md",
     "Julia's note/2.19 マルチスレッド.md",
     "Julia's note/2.18 数学関数.md",
     "Julia's note/2.8 関数.md",
@@ -247,6 +246,8 @@
     "Pattern_recognition/error_class_5.png",
     "Pattern_recognition/error_class_4.png",
     "Pattern_recognition/error_class_3.png",
+    "Pattern_recognition/error_class_2.png",
+    "Pattern_recognition/error_class_1.png",
     "Julia's note/1.7 パッケージモード（Pkgと］）.md",
     "Julia's note/5.2 LaTeX.md",
     "Julia's note/2.10 内包表記.md",
