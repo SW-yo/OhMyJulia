@@ -1,42 +1,14 @@
 {
   "main": {
-    "id": "7db1701d8ec99aed",
+    "id": "9f32aa4c99350756",
     "type": "split",
     "children": [
       {
-        "id": "92336dfcaa00333d",
+        "id": "38083c6bfb02d60a",
         "type": "tabs",
         "children": [
           {
-            "id": "fe9f1202bcb12e4a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Julia's note/5.2 LaTeX.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "5.2 LaTeX"
-            }
-          },
-          {
-            "id": "2314724b7689819b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Julia's note/2.1 型.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2.1 型"
-            }
-          },
-          {
-            "id": "b1b07958671a4c24",
+            "id": "018bc0ab7e013d41",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -50,35 +22,34 @@
             }
           },
           {
-            "id": "c13d3925f221c4b6",
+            "id": "755531b109dad9a4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Julia's note/2.9 配列.md",
+                "file": "Julia's note/2.16 対数.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2.9 配列"
+              "title": "2.16 対数"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "f82148b01c81d746",
+    "id": "825701ee497de030",
     "type": "split",
     "children": [
       {
-        "id": "119c44eafd1dab6c",
+        "id": "303a8237e8fb04ba",
         "type": "tabs",
         "children": [
           {
-            "id": "b709245fe061cab0",
+            "id": "b38b7d4778b29680",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -91,7 +62,7 @@
             }
           },
           {
-            "id": "9abbfb11abbb3932",
+            "id": "9dc4cacf0f8a7109",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -108,7 +79,7 @@
             }
           },
           {
-            "id": "a60e15ecc5066b58",
+            "id": "adb4379852ef2d02",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -124,20 +95,19 @@
     "width": 300
   },
   "right": {
-    "id": "1dd176339bd24929",
+    "id": "2dfbf48bfa6120f8",
     "type": "split",
     "children": [
       {
-        "id": "6a9132fb939bf59b",
+        "id": "e58c94857eec27b2",
         "type": "tabs",
         "children": [
           {
-            "id": "ed7d74133f42aa45",
+            "id": "f449237ab181dc1a",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Julia's note/1.4 Juliaの起動.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,25 +117,24 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "1.4 Juliaの起動へのバックリンク"
+              "title": "バックリンク"
             }
           },
           {
-            "id": "a3ec47c2b29b139c",
+            "id": "0b1cf6f9b4c3c07c",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Julia's note/1.4 Juliaの起動.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "1.4 Juliaの起動からのアウトゴーイングリンク"
+              "title": "アウトゴーイングリンク"
             }
           },
           {
-            "id": "d51b54cfee7f956a",
+            "id": "86e55dd7be1435d8",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -180,7 +149,7 @@
             }
           },
           {
-            "id": "84142c0b45846fdc",
+            "id": "e72bdf2fa591931e",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -194,18 +163,17 @@
             }
           },
           {
-            "id": "ed4caaf134e07f04",
+            "id": "821c3c4413a7774f",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Julia's note/1.4 Juliaの起動.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "1.4 Juliaの起動のアウトライン"
+              "title": "アウトライン"
             }
           }
         ]
@@ -217,62 +185,34 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "bases:新規ベースを作成": false,
       "switcher:クイックスイッチャーを開く": false,
       "graph:グラフビューを開く": false,
       "canvas:新規キャンバスを作成": false,
       "daily-notes:今日のデイリーノートを開く": false,
       "templates:テンプレートを挿入": false,
-      "command-palette:コマンドパレットを開く": false
+      "command-palette:コマンドパレットを開く": false,
+      "bases:新規ベースを作成": false
     }
   },
-  "active": "2314724b7689819b",
+  "active": "018bc0ab7e013d41",
   "lastOpenFiles": [
-    "Pattern_recognition/iris_least_square.png",
-    "Julia's note/2.2 行列.md",
-    "Pattern_recognition/linclass_least_square.png",
-    "Pattern_recognition/linclass_least_square_for_random.png",
-    "Julia's note/2.9 配列.md",
-    "Julia's note/5.2 LaTeX.md",
-    "Julia's note/2.18 数学関数.md",
-    "Julia's note/2.19 マルチスレッド.md",
-    "Julia's note/2.1 型.md",
-    "Pattern_recognition/pima_kNN_error_rate.png",
-    "Pattern_recognition/etl1_error_all.png",
-    "Julia's note/2.8 関数.md",
-    "Pattern_recognition/LocalPreferences.toml",
-    "Julia's note/3.1 VSCodeのセッティング.md",
-    "Julia's note/2.7 制御構文.md",
-    "Pattern_recognition/error_all.png",
-    "Pattern_recognition/error_class_9.png",
-    "Pattern_recognition/error_class_8.png",
-    "Pattern_recognition/error_class_7.png",
-    "Pattern_recognition/error_class_6.png",
-    "Pattern_recognition/error_class_5.png",
-    "Julia's note/1.7 パッケージモード（Pkgと］）.md",
     "Julia's note/2.10 内包表記.md",
-    "Julia's note/1.3 VSCodeのJuliaセットアップ.md",
-    "Julia's note/1.2 Juliaのインストール.md",
-    "Julia's note/1.1 Juliaのための環境準備.md",
-    "Julia's note/2.3 文字列.md",
-    "Julia's note/2.4 算術演算子.md",
-    "Julia's note/2.5 比較演算子.md",
-    "Julia's note/2.6 論理演算子.md",
-    "Julia's note/1.5 Juliaの実行.md",
-    "Julia's note/1.6 スマートアプリコントロール.md",
-    "Julia's note/2.17 画像のリサイズ.md",
-    "Pattern_recognition/etl1_01_normalNN.ipynb",
-    "Pattern_recognition/etl1_01_normalNN_2.ipynb",
-    "Julia's note/2.15 ブロードキャスト（.）.md",
-    "Julia's note/2.14 filter関数.md",
-    "Julia's note/2.12 ファイル操作.md",
-    "Pattern_recognition/etl1_filter.xcf",
-    "README.md",
-    "Pattern_recognition/pima_02-multivariate_normal_distribution.ipynb",
-    "Pattern_recognition/pima_01-1_dimensional_normal_distribution_function.ipynb",
-    "Pattern_recognition/iris_03-decorrelation_and _whitening.ipynb",
-    "Pattern_recognition/iris_03-decorrelation_and _whitening.jl",
-    "Pattern_recognition/iris_03-decorrelation_and _.jl",
-    "Pattern_recognition/iris_03-decorrelation.jl"
+    "Julia's note/2.9 配列.md",
+    "Julia's note/2.18 数学関数.md",
+    "Julia's note/2.16 対数.md",
+    "Julia's note/2.21 統計関数.md",
+    "Pattern_recognition/xoutpu.png",
+    "Pattern_recognition/xoutput.png",
+    "Pattern_recognition/output.png",
+    "Julia's note/2.20 乱数.md",
+    "Julia's note/5.2 LaTeX.md",
+    "Julia's note/4.1 GPUの起動.md",
+    "Julia's note/2.19 マルチスレッド.md",
+    "Julia's note/2.13 グラフ表示.md",
+    "Julia's note/1.7 パッケージモード（Pkgと］）.md",
+    "Julia's note/6.1 『はじめてのパターン認識』学習方針.md",
+    "Julia's note/2.1 型.md",
+    "Julia's note/2.2 行列.md",
+    "Julia's note/2.4 算術演算子.md"
   ]
 }
