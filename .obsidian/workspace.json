@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Julia's note/2.22 CairoMakie.md",
+                "file": "Julia's note/2.9 配列.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2.22 CairoMakie"
+              "title": "2.9 配列"
             }
           }
         ],
@@ -169,13 +169,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Julia's note/2.22 CairoMakie.md",
+                "file": "Julia's note/2.9 配列.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2.22 CairoMakieのアウトライン"
+              "title": "2.9 配列のアウトライン"
             }
           }
         ],
@@ -196,15 +196,19 @@
       "bases:新規ベースを作成": false
     }
   },
-  "active": "755531b109dad9a4",
+  "active": "b38b7d4778b29680",
   "lastOpenFiles": [
-    "Julia's note/2.9 配列.md",
+    "Julia_practice/practice_09_Tuppers formula.jl",
+    "Julia_practice/practice_09_Tupper's formula.jl",
+    "Julia's note/1.5 Juliaの実行.md",
+    "Julia_practice/tupper.png",
     "Julia's note/2.22 CairoMakie.md",
+    "Julia_practice/practice_09_Tupper’s formula.jl",
+    "Julia's note/2.9 配列.md",
     "Julia's note/2.21 画像の表示.md",
     "Pattern_recognition/xoutput.png",
     "Julia's note/2.2 行列.md",
     "Julia's note/2.18 数学関数.md",
-    "Julia's note/1.5 Juliaの実行.md",
     "Julia's note/1.4 Juliaの起動.md",
     "Julia's note/1.1 Juliaのための環境準備.md",
     "Julia's note/1.2 Juliaのインストール.md",
