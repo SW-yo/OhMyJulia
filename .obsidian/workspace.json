@@ -169,20 +169,21 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Julia's note/2.22 CairoMakie.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "アウトライン"
+              "title": "2.22 CairoMakieのアウトライン"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 221.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -197,11 +198,11 @@
   },
   "active": "755531b109dad9a4",
   "lastOpenFiles": [
-    "Julia's note/2.21 画像の表示.md",
+    "Julia's note/2.9 配列.md",
     "Julia's note/2.22 CairoMakie.md",
+    "Julia's note/2.21 画像の表示.md",
     "Pattern_recognition/xoutput.png",
     "Julia's note/2.2 行列.md",
-    "Julia's note/2.9 配列.md",
     "Julia's note/2.18 数学関数.md",
     "Julia's note/1.5 Juliaの実行.md",
     "Julia's note/1.4 Juliaの起動.md",
