@@ -93,7 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 247.5
   },
   "right": {
     "id": "2dfbf48bfa6120f8",
@@ -183,7 +183,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 221.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -198,11 +198,11 @@
   },
   "active": "755531b109dad9a4",
   "lastOpenFiles": [
-    "Pattern_recognition/xoutput.png",
     "Julia's note/5.2 LaTeX.md",
+    "Julia's note/2.22 CairoMakie.md",
+    "Pattern_recognition/xoutput.png",
     "Julia's note/5.1 ホットキー.md",
     "Julia's note/3.2 Gitの設定.md",
-    "Julia's note/2.22 CairoMakie.md",
     "Julia's note/2.19 マルチスレッド.md",
     "Julia's note/2.17 画像のリサイズ.md",
     "Julia's note/2.16 対数.md",
